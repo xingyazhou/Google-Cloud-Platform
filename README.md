@@ -13,7 +13,7 @@ Today I tried to use GCP BigQuery + Data Studio generating COVID-19 summary repo
 ## https://datastudio.google.com/s/saw_0IVG0fk
 
 ![covid19!](./image/covid19_summary.PNG "covid-19 summary")
-![covid19!](./image/covid19_tables2.PNG "covid-19 tables")
+![covid19!](./image/covid19_tables2.png "covid-19 tables")
 ![covid19!](./image/covid19_tables.PNG "covid-19 tables")
 
 ## 2. degcp_running_spark_jobs_locally.ipynb
