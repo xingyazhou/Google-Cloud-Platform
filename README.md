@@ -1,7 +1,7 @@
 # Google-Cloud-Platform
 
 
-### covid19_summary.sql
+## 1. covid19_summary.sql
 
 BigQuery + Data Studio
 
@@ -14,3 +14,6 @@ Today I tried to use GCP BigQuery + Data Studio generating COVID-19 summary repo
 
 ![covid19!](./image/covid19_summary.PNG "covid-19 summary")
 ![covid19!](./image/covid19_tables.PNG "covid-19 tables")
+
+## 2. degcp_running_spark_jobs_locally.ipynb
+### Project: Running Apache Spark jobs locally
