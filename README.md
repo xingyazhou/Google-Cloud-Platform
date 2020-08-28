@@ -18,3 +18,7 @@ Today I tried to use GCP BigQuery + Data Studio generating COVID-19 summary repo
 
 ## 2. degcp_running_spark_jobs_locally.ipynb
 ### Project: Running Apache Spark jobs locally
+
+## 3. [Bigquery](https://github.com/xingyazhou/Google-Cloud-Platform/tree/master/bigquery)
+
+
